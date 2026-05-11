@@ -25,19 +25,29 @@
  ░    ░   ░░   ░    ░    ░   ▒   ░ ░░ ░     ▒ ▒ ░░  ░ ░ ░ ▒   ░░░ ░ ░ 
  ░         ░        ░  ░     ░  ░░  ░       ░ ░         ░ ░     ░     
       ░                                     ░ ░                                                                                                                                                        
-                     [ 𝙑𝙪𝙡𝙣𝙚𝙧𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝𝙚𝙧 ]
+                   [ 𝙑𝙪𝙡𝙣𝙚𝙧𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝𝙚𝙧 ]
 </pre>
+
+<code><b>Vibe Coder</b></code> • <code><b>Digital Ghost</b></code> • <code><b>Ctrl+C Ctrl+V Artist</b></code>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Status-Chilling-8e44ad?style=flat-square" /> 
-<img src="https://img.shields.io/badge/Mood-Sleepy-2ecc71?style=flat-square" /> 
-<img src="https://img.shields.io/badge/Role-Security_Dev-e74c3c?style=flat-square" />
+<img src="https://img.shields.io/badge/Learning-Deep_Security-e74c3c?style=flat-square" /> 
+<img src="https://img.shields.io/badge/Mood-Infinite_Loop-2ecc71?style=flat-square" />
 
 <br/>
 
-### ⚡️ "Just Learning and breaking..."
-*Just a 19yo dev breaking things for fun.*
+---
+
+### 🛠 Currently Diving Deep Into...
+*“The more I learn, the more I realize I know nothing.”*
+
+| Exploration | Level | Target |
+| :--- | :---: | :--- |
+| **Network Security** | `[######---]` | Vulnerability Research |
+| **Back-end Logic** | `[####------]` | Logic Flaws & Exploits |
+| **Automation** | `[#######---]` | Pythonic Tools |
 
 ---
 
@@ -49,6 +59,6 @@
 
 <br/>
 
-<code><b>🇰🇭 PHNOM PENH</b></code> • <code><b>FUCKUNIGGER</b></code> • <code><b>https://t.me/ZxS3xx</b></code>
+<code><b>🇰🇭 PHNOM PENH</b></code> &nbsp;&nbsp; <code><b>//</b></code> &nbsp;&nbsp; <code><b>TELEGRAM: @ZxS3xx</b></code> &nbsp;&nbsp; <code><b>//</b></code> &nbsp;&nbsp; <code><b>19YO</b></code>
 
 </div>
